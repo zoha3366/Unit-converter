@@ -1,0 +1,22 @@
+{
+    "length": {
+        "meter": 1,
+        "kilometer": 0.001,
+        "centimeter": 100,
+        "millimeter": 1000,
+        "mile": 0.000621371,
+        "yard": 1.09361,
+        "foot": 3.28084,
+        "inch": 39.3701
+    },
+    "weight": {
+        "kilogram": 1,
+        "gram": 1000,
+        "pound": 2.20462,
+        "ounce": 35.274
+    },
+    "temperature": {
+        "celsius_to_fahrenheit": "C * 9/5 + 32",
+        "fahrenheit_to_celsius": "(F - 32) * 5/9"
+    }
+}
